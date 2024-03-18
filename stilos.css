@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+body {
+    background-color: rgb(60, 23, 23);}
+
+header {
+padding: 50px;
+border-bottom: 0px solid;
+background-color: rgb(87, 5, 5);
+border-bottom: 5px;
+border-bottom-style: groove;
+}
+
+header div {
+text-align: center;
+}
+header div a {
+color: rgb(188, 139, 122);
+font-size: 100px;
+line-height: 30px;
+margin: 16px;
+text-decoration: dotted;
+font-family: "Honk", system-ui;
+} 
+
+header div a:hover {
+color: rgb(180, 15, 174);
+transition: 1500ms;
+} 
